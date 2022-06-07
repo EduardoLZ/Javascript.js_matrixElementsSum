@@ -13,11 +13,12 @@ matrix = [[0, 1, 1, 2],
 the output should be
 solution(matrix) = 9.
 
-![Image text](https://codesignal.s3.amazonaws.com/tasks/matrixElementsSum/img/example1.png)
+![image](https://user-images.githubusercontent.com/26644888/172451062-efb5a285-77c3-408f-831a-2c9b5e121221.png)
 
 example 1
 
 There are several haunted rooms, so we'll disregard them as well as any rooms beneath them. Thus, the answer is 1 + 5 + 1 + 2 = 9.
+
 
 For
 
@@ -26,6 +27,9 @@ matrix = [[1, 1, 1, 0],
           [2, 1, 3, 10]]
 the output should be
 solution(matrix) = 9.
+
+![image](https://user-images.githubusercontent.com/26644888/172451180-7762f1b1-d6a1-43dc-b9bc-872987b63fcb.png)
+
 
 example 2
 
