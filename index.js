@@ -12,7 +12,7 @@ matrix = [[0, 1, 1, 2],
 the output should be
 solution(matrix) = 9.
 
-![Image text](https://codesignal.s3.amazonaws.com/tasks/matrixElementsSum/img/example1.png?_tm=1624661706824)
+![Image text](https://codesignal.s3.amazonaws.com/tasks/matrixElementsSum/img/example1.png)
 
 example 1
 
